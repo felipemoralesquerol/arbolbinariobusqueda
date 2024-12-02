@@ -4,7 +4,7 @@ class Nodo:
         self.izq = None
         self.der = None
 
-class ArbolBinarioBusqueda:
+class ABB:
     def __init__(self):
         self.raiz = None
 
@@ -128,7 +128,7 @@ class ArbolBinarioBusqueda:
 
 
 """
-arbol = ArbolBinarioBusqueda()
+arbol = ABB()
 
 valores = [7, 3, 10, 1, 5, 9, 12]
 for valor in valores:
