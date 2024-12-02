@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="ArbolBinarioBusqueda",  # Nombre del paquete (único en PyPI)
-    version="0.2.2",    # Versión del paquete
+    version="0.2.5",    # Versión del paquete
     author="Felipe Morales",
     author_email="felipe.morales.querol@gmail.com",
     description="Mostrar una implementación simple y totalmente en español con fines académicos",
